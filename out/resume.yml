@@ -1,0 +1,171 @@
+basics:
+  name: 'Brian Gates'
+  label: 'Senior Software Engineer'
+  picture: 'https://secure.gravatar.com/avatar/95a7d8ec9602bd415b61bf3008d143a6?size=400'
+  email: brian.g.gates@gmail.com
+  phone: '(949) 280-4708'
+  website: 'https://github.com/brian-gates'
+  summary: '13 years of experience and excellent communication provide keen intuition into the needs of business, user, and software, resulting in the best tools to do more with less.'
+  location:
+    address: '7517 Corey St'
+    postalCode: '90242'
+    city: Downey
+    countryCode: US
+    region: California
+  profiles: []
+work:
+  -
+    company: 'Codex Digital'
+    position: 'Senior Software Engineer'
+    website: 'https://codex.online/'
+    startDate: '2013-07-01'
+    endDate: '2017-11-01'
+    summary: 'Led the R&D team on various projects.'
+    highlights:
+      - 'Collaborated with the core team to implement a shot pull system used by Marvel.'
+      - 'Created cross-platform desktop application to facilitate uploading media to Netflix''s Asset Ingestion API.'
+      - 'Created a reporting system to track and verify shot archival used by Shed.'
+      - 'Created a lens tracking database.'
+      - 'Implemented workflow tools such as JIRA, GitHub, Slack, and Travis CI, to help team organization, communication, and development flow.'
+      - 'Worked closely with a security team to ensure software always met highest security standards, including code audits and penetration testing.'
+  -
+    company: '5th Kind'
+    position: 'Lead Web Developer'
+    website: 'http://www.5thkind.com/'
+    startDate: '2009-07-01'
+    endDate: '2013-07-01'
+    summary: 'Led the team in the development and maintenance of their Digital Asset Management software.'
+    highlights:
+      - 'Engineered proprietary front-end extensible component-based JS framework.'
+      - 'Assisted in building a proprietary component-based PHP framework.'
+      - 'Maintained and extended custom ORM, including applying an optimization that reduced memory usage by ~85%.'
+      - 'Worked with the team to refine development processes, discuss development ideas, and encourage high morale and productivity.'
+      - 'Worked closely with management to set and achieve realistic goals and expectations.'
+      - 'Ensured code met and maintained high security standards, including security audits and penetration tests.'
+  -
+    company: Usability.pro
+    position: 'Senior Front-end Web Developer'
+    website: 'https://www.usability.pro/'
+    startDate: '2009-05-01'
+    endDate: '2009-07-01'
+    summary: 'Developed several websites from conception to completion.'
+    highlights:
+      - 'Created unobtrusive ajax layer to a shopping cart.'
+      - 'Developed new company website, implementing a semantic, pixel-perfect redesign.'
+      - 'Initialized LAMP server setup from scratch.'
+      - 'Developed large site on Drupal with user and product management.'
+  -
+    company: 'Global Gaming League'
+    position: 'Lead Front-end Web Developer'
+    website: ""
+    startDate: '2008-06-01'
+    endDate: '2009-05-01'
+    summary: 'Primarily responsible for maintaining website''s application-level front-end functionality, with secondary involvement on the back-end.'
+    highlights:
+      - 'Wrote semantic front-end markup.'
+      - 'Worked closely with the designer, refining and expediting the process of design-to-development.'
+      - 'Developed an oop javascript framework resulting in an application that is more centralized, extensible, usable, and readable.'
+      - 'Separated the views from both css and javascript.'
+  -
+    company: 'Garden of E'
+    position: 'Lead Web Developer'
+    website: 'http://www.gardenofe.com/'
+    startDate: '2007-10-01'
+    endDate: '2008-06-01'
+    summary: 'Responsible for building and maintaining dozens of websites and tools.'
+    highlights:
+      - 'Created content management systems.'
+      - 'Produced social network system for a housing community.'
+      - 'Developed a Work Order System for internal job management.'
+      - 'Built configurable system to automatically send follow-up html emails “drip campaigns” to potential leads.'
+      - 'Handled server software upgrades, installations, and configurations including PHP, Apache, DNS, IIS, and more.'
+  -
+    company: 'Beverly Hills Physicians'
+    position: Webmaster
+    website: 'https://www.beverlyhillsphysicians.com/'
+    startDate: '2006-01-01'
+    endDate: '2006-08-01'
+    summary: 'Self-managed Web Programmer, Graphic Designer, and Internet Marketing Manager.'
+    highlights:
+      - 'Conceived, organized, and executed projects to maintain and improve the company website’s functionality and looks.'
+      - 'Managed $100k marketing budget.'
+      - 'Doubled web traffic and increased internet profits by 126% within two months.'
+      - 'Designed numerous ads published both in print and on the web.'
+  -
+    company: 'NCS Group'
+    position: 'Web Developer and Graphic Artist'
+    website: ""
+    startDate: '2003-01-01'
+    endDate: '2006-12-01'
+    summary: 'Responsible for all facets of multiple web projects from conception to completion.'
+    highlights:
+      - 'Devised, proposed and implemented creative graphical interfaces.'
+      - 'Developed web-based mail and user profile management systems.'
+      - 'Tested and debugged all code design, functionality and usability.'
+volunteer: []
+education:
+  -
+    institution: 'Saddleback College'
+    area: 'Computer Information Systems'
+    studyType: 'Associate''s equivalent'
+    startDate: '2002-06-01'
+    endDate: '2004-01-01'
+    gpa: '3.5'
+    courses: []
+awards: []
+publications: []
+skills:
+  -
+    name: Software
+    level: Master
+    keywords:
+      - Node.js
+      - Express.js
+      - 'RESTful API Design'
+      - Electron
+      - Neo4j
+      - JavaScript
+      - CSS
+      - HTML
+      - Git
+      - 'UI / UX'
+  -
+    name: Frameworks
+    level: Advanced
+    keywords:
+      - Ember
+      - React
+      - Express
+  -
+    name: 'Cloud Platforms'
+    level: Intermediate
+    keywords:
+      - AWS
+      - 'Google Cloud Platform'
+  -
+    name: Software
+    level: Intermediate
+    keywords:
+      - C++
+      - 'C#'
+      - MySQL
+      - PHP
+      - OAuth
+      - GraphQL
+  -
+    name: DevOps
+    level: Intermediate
+    keywords:
+      - 'Linux (RedHat, CentOS)'
+      - 'Travis CI'
+      - Docker
+      - 'Docker Cloud'
+      - 'Docker Hub'
+  -
+    name: 3D
+    level: Beginner
+    keywords:
+      - Unity
+languages: []
+interests: []
+references: []
