@@ -116,7 +116,7 @@ awards: []
 publications: []
 skills:
   -
-    name: Software
+    name: 'Software (Master)'
     level: Master
     keywords:
       - Node.js
@@ -143,7 +143,7 @@ skills:
       - AWS
       - 'Google Cloud Platform'
   -
-    name: Software
+    name: 'Software (Intermediate)'
     level: Intermediate
     keywords:
       - C++
